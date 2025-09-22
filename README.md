@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FF&center=true&vCenter=true&width=435&lines=👋Hi%2C+I'm+Moses+Achi🤝" alt="Typing SVG" />
+</div>
 
-<!--
-**mosesachizz/mosesachizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📖 About Me
+◾️ I'm a full-stack developer passionate about building scalable systems, AI/ML integrations, and distributed architectures with extensive experience working on complex projects locally like [high-frequency trading engines](https://github.com/mosesachizz/distributed-ai-trading-engine).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◾️ I've led full-stack development and system migrations for fintech and AI companies, leveraging tools like JavaScript, Python, Go, and cloud platforms (e.g., AWS).
+
+◾️ Skilled in React, Node.js, system design, and mentoring teams, and I’m currently exploring MLOps and building cutting-edge AI solution 💥🔥.
+
+### ⚡ Fun fact: I breath, eat, and drink software for a living 😇
+
+- 📧 [Email me](mailto:mosesachi.me@gmail.com) for collaborations or opportunities
+- 🔗 [LinkedIn](https://linkedin.com/in/achimoses) | [Portfolio](https://mosesachizz.github.io/)
+- 💼 Open to remote/full-time roles in full-stack, DevOps, or AI engineering
+
+### 🚀 Featured Projects
+Here are some of my key open-source projects locally stored on my new GitHub showcasing projects like [Blockchain-based Supply Chain Tracker](https://github.com/mosesachizz/blockchain-supply-chain-tracker) with end-to-end development, PR-driven workflows, and detailed setup instructions:
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Blockchain-based Supply Chain Tracker** | Transparent tracking for logistics and healthcare supply chains. | Python, Ethereum, Web3 | [Repo](https://github.com/mosesachizz/blockchain-supply-chain-tracker) |
+| **Distributed AI Trading Engine** | High-frequency trading with AI predictions and low-latency processing. | Python, TensorFlow, Kafka | [Repo](https://github.com/mosesachizz/distributed-ai-trading-engine) |
+| **Multi-Tenant SaaS Platform** | Secure, isolated tenant management for enterprise applications. | Python, AWS (Lambda, RDS), Django/Flask | [Repo](https://github.com/mosesachizz/multi-tenant-saas-platform) |
+| **Machine Learning Model Serving API with MLOps** | API for deploying and monitoring ML models at scale. | Python, FastAPI, Docker, MLflow | [Repo](https://github.com/mosesachizz/ml-model-serving) |
+| **Distributed Systems Orchestrator** | Mini-Kubernetes for container management and orchestration. | Go, Docker, Kubernetes | [Repo](https://github.com/mosesachizz/distributed-orchestrator) |
+| **Real-Time Collaborative Document Editor** | Collaborative editor like Google Docs built for seamless multi-user editing  with live updates. | React, Node.js, WebSockets, MongoDB | [Repo](https://github.com/mosesachizz/real-time-doc-editor) |
+
+### 🛠️ My Expertise
+- Led full-stack development and system migrations for fintech and AI applications.
+- Skilled in React, Node.js, Python, Go, system design, AWS, and mentoring teams.
+- Exploring microservices, MLOps, and blockchain innovations.
+
+### 🤝 Let's Connect
+📧 [Get in touch](mailto:mosesachi.me@gmail.com)  
+⭐ Star my repos if they help you!
