@@ -20,7 +20,7 @@ Here are some of my key indepent projects now open-source and hosted on my new G
 
 | Project  | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Blockchain-based Supply Chain Tracker**](https://github.com/mosesachizz/blockchain-supply-chain-tracker) | Transparent tracking for logistics and healthcare supply chains. | Python, Ethereum, Web3 |
+| [**Blockchain-based Supply Chain Tracker**](https://github.com/mosesachizz/blockchain-supply-chain-tracker) | Transparent tracking for logistics and healthcare supply chains. | Python, Ethereum, Solidity, Web3 |
 | [**Distributed AI Trading Engine**](https://github.com/mosesachizz/distributed-ai-trading-engine) | High-frequency trading with AI predictions and low-latency processing. | Python, TensorFlow, Kafka | [Repo](https://github.com/mosesachizz/distributed-ai-trading-engine) |
 | [**Multi-Tenant SaaS Platform**](https://github.com/mosesachizz/multi-tenant-saas-platform) | Secure, isolated tenant management for enterprise applications. | Python, AWS (Lambda, RDS), Django/Flask | [Repo](https://github.com/mosesachizz/multi-tenant-saas-platform) |
 | [**Machine Learning Model Serving API with MLOps**](https://github.com/mosesachizz/ml-model-serving) | API for deploying and monitoring ML models at scale. | Python, FastAPI, Docker, MLflow | [Repo](https://github.com/mosesachizz/ml-model-serving) |
