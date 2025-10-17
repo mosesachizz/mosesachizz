@@ -3,7 +3,7 @@
 </div>
 
 ## 📖 About Me
-◾️ I'm a full-stack developer passionate about building scalable systems, AI/ML integrations, and distributed architectures with extensive experience working on complex projects locally like [Distributed AI Trading Engine](https://github.com/mosesachizz/distributed-ai-trading-engine).
+◾️ I'm a full-stack developer passionate about building scalable systems that power advanced applications, AI/ML integrations, and distributed architectures with extensive experience working on complex projects locally like [Distributed AI Trading Engine](https://github.com/mosesachizz/distributed-ai-trading-engine).
 
 ◾️ I've led full-stack development and system migrations for fintech and AI companies, leveraging tools like JavaScript, Python, Go, and cloud platforms (e.g., AWS).
 
@@ -16,7 +16,7 @@
 - 💼 Open to remote/full-time roles in full-stack, DevOps, or AI engineering
 
 ### 🚀 Featured Projects
-Here are some of my key indepent projects now open-source and hosted on my new GitHub showcasing full-stack and scalable solutions with end-to-end development and structured workflows.
+Here are some of my key independent projects now open-source showcasing full-stack and scalable solutions with end-to-end development and structured workflows.
 
 | Project  | Description | Tech Stack |
 |---------|-------------|------------|
@@ -25,7 +25,7 @@ Here are some of my key indepent projects now open-source and hosted on my new G
 | [**Multi-Tenant SaaS Platform**](https://github.com/mosesachizz/multi-tenant-saas-platform) | Secure, isolated tenant management for enterprise applications. | Python, AWS (Lambda, RDS), Django/Flask | [Repo](https://github.com/mosesachizz/multi-tenant-saas-platform) |
 | [**Machine Learning Model Serving API with MLOps**](https://github.com/mosesachizz/ml-model-serving) | API for deploying and monitoring ML models at scale. | Python, FastAPI, Docker, MLflow | [Repo](https://github.com/mosesachizz/ml-model-serving) |
 | [**Distributed Systems Orchestrator**](https://github.com/mosesachizz/distributed-orchestrator) | Mini-Kubernetes for container management and orchestration. | Go, Docker, Kubernetes | [Repo](https://github.com/mosesachizz/distributed-orchestrator) |
-| [**Real-Time Collaborative Document Editor**](https://github.com/mosesachizz/real-time-doc-editor) | Collaborative editor like Google Docs built for seamless multi-user editing  with live updates. | React, Node.js, WebSockets, MongoDB | [Repo](https://github.com/mosesachizz/real-time-doc-editor) |
+| [**Real-Time Collaborative Document Editor**](https://github.com/mosesachizz/real-time-doc-editor) | Collaborative editor like Google Docs built for seamless multi-user editing with live updates. | React, Node.js, WebSockets, MongoDB | [Repo](https://github.com/mosesachizz/real-time-doc-editor) |
 
 ### 🛠️ My Expertise
 - Led full-stack development and system migrations for fintech and AI applications.
